@@ -1,0 +1,4 @@
+Method for gene target selection: 
+Pick target genes: so choose miR to investigate (363, 574, 20b, 220? etc). find predicted genes, compare with 
+expressed genes for all cavin(or respective if doing that). Perform gene Ontology on these. Take top genes that are 
+differentially expressed and look at their function. if interesting, keep as target.  
