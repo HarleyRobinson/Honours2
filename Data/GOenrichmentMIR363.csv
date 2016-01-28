@@ -1,26 +1,26 @@
-,GO.ID,Term,KS
-1,GO:0002064,epithelial cell development,0.26
-2,GO:0003334,keratinocyte development,0.26
-3,GO:0006139,nucleobase-containing compound metabolic...,0.26
-4,GO:0006351,"transcription, DNA-templated",0.26
-5,GO:0006355,"regulation of transcription, DNA-templat...",0.26
-6,GO:0006357,regulation of transcription from RNA pol...,0.26
-7,GO:0006366,transcription from RNA polymerase II pro...,0.26
-8,GO:0006725,cellular aromatic compound metabolic pro...,0.26
-9,GO:0006807,nitrogen compound metabolic process,0.26
-10,GO:0008152,metabolic process,0.26
-11,GO:0008219,cell death,0.26
-12,GO:0008283,cell proliferation,0.26
-13,GO:0008284,positive regulation of cell proliferatio...,0.26
-14,GO:0008544,epidermis development,0.26
-15,GO:0009058,biosynthetic process,0.26
-16,GO:0009059,macromolecule biosynthetic process,0.26
-17,GO:0009888,tissue development,0.26
-18,GO:0009889,regulation of biosynthetic process,0.26
-19,GO:0009891,positive regulation of biosynthetic proc...,0.26
-20,GO:0009893,positive regulation of metabolic process,0.26
-21,GO:0009913,epidermal cell differentiation,0.26
-22,GO:0009987,cellular process,0.26
-23,GO:0010467,gene expression,0.26
-24,GO:0010468,regulation of gene expression,0.26
-25,GO:0010556,regulation of macromolecule biosynthetic...,0.26
+"","GO.ID","Term","KS"
+"1","GO:0044283","small molecule biosynthetic process","0.021"
+"2","GO:0035295","tube development","0.023"
+"3","GO:0001568","blood vessel development","0.036"
+"4","GO:0001944","vasculature development","0.036"
+"5","GO:0044767","single-organism developmental process","0.036"
+"6","GO:0007275","multicellular organismal development","0.038"
+"7","GO:0032501","multicellular organismal process","0.041"
+"8","GO:0044707","single-multicellular organism process","0.041"
+"9","GO:0006766","vitamin metabolic process","0.048"
+"10","GO:0006767","water-soluble vitamin metabolic process","0.048"
+"11","GO:0007267","cell-cell signaling","0.054"
+"12","GO:0032502","developmental process","0.060"
+"13","GO:0035239","tube morphogenesis","0.060"
+"14","GO:0060562","epithelial tube morphogenesis","0.060"
+"15","GO:0010628","positive regulation of gene expression","0.063"
+"16","GO:0045893","positive regulation of transcription, DN...","0.063"
+"17","GO:0051254","positive regulation of RNA metabolic pro...","0.063"
+"18","GO:1902680","positive regulation of RNA biosynthetic ...","0.063"
+"19","GO:1903508","positive regulation of nucleic acid-temp...","0.063"
+"20","GO:0048646","anatomical structure formation involved ...","0.063"
+"21","GO:0072358","cardiovascular system development","0.063"
+"22","GO:0072359","circulatory system development","0.063"
+"23","GO:0061448","connective tissue development","0.074"
+"24","GO:0001838","embryonic epithelial tube formation","0.078"
+"25","GO:0032943","mononuclear cell proliferation","0.078"

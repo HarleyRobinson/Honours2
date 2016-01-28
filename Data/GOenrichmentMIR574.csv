@@ -1,26 +1,26 @@
-,GO.ID,Term,KS
-1,GO:0048468,cell development,0.0049
-2,GO:0043434,response to peptide hormone,0.0099
-3,GO:0071375,cellular response to peptide hormone sti...,0.0099
-4,GO:1901653,cellular response to peptide,0.0099
-5,GO:0051347,positive regulation of transferase activ...,0.0155
-6,GO:0031401,positive regulation of protein modificat...,0.0167
-7,GO:0080134,regulation of response to stress,0.019
-8,GO:0030182,neuron differentiation,0.0198
-9,GO:0008286,insulin receptor signaling pathway,0.0217
-10,GO:0032868,response to insulin,0.0217
-11,GO:0032869,cellular response to insulin stimulus,0.0217
-12,GO:0048731,system development,0.0221
-13,GO:0038179,neurotrophin signaling pathway,0.0226
-14,GO:0048011,neurotrophin TRK receptor signaling path...,0.0226
-15,GO:0030154,cell differentiation,0.0233
-16,GO:0032989,cellular component morphogenesis,0.0254
-17,GO:0007275,multicellular organismal development,0.0278
-18,GO:0040013,negative regulation of locomotion,0.0325
-19,GO:0031175,neuron projection development,0.0337
-20,GO:0048666,neuron development,0.0337
-21,GO:0034446,substrate adhesion-dependent cell spread...,0.0351
-22,GO:0046777,protein autophosphorylation,0.0351
-23,GO:0055114,oxidation-reduction process,0.0357
-24,GO:0007169,transmembrane receptor protein tyrosine ...,0.0372
-25,GO:0070848,response to growth factor,0.0372
+"","GO.ID","Term","KS"
+"1","GO:0044710","single-organism metabolic process","6.4e-05"
+"2","GO:0006260","DNA replication","9.1e-05"
+"3","GO:0006629","lipid metabolic process","0.00024"
+"4","GO:0050804","modulation of synaptic transmission","0.00047"
+"5","GO:0060349","bone morphogenesis","0.00061"
+"6","GO:0007268","synaptic transmission","0.00145"
+"7","GO:0006259","DNA metabolic process","0.00146"
+"8","GO:0048009","insulin-like growth factor receptor sign...","0.00158"
+"9","GO:0060348","bone development","0.00173"
+"10","GO:1901135","carbohydrate derivative metabolic proces...","0.00218"
+"11","GO:0051588","regulation of neurotransmitter transport","0.00256"
+"12","GO:0030534","adult behavior","0.00258"
+"13","GO:0044281","small molecule metabolic process","0.00351"
+"14","GO:0006261","DNA-dependent DNA replication","0.00353"
+"15","GO:0044236","multicellular organismal metabolic proce...","0.00376"
+"16","GO:0060363","cranial suture morphogenesis","0.00467"
+"17","GO:0044255","cellular lipid metabolic process","0.00472"
+"18","GO:0060350","endochondral bone morphogenesis","0.00479"
+"19","GO:0046486","glycerolipid metabolic process","0.00566"
+"20","GO:0050808","synapse organization","0.00619"
+"21","GO:0006643","membrane lipid metabolic process","0.00678"
+"22","GO:0005975","carbohydrate metabolic process","0.00679"
+"23","GO:0009100","glycoprotein metabolic process","0.00744"
+"24","GO:0007267","cell-cell signaling","0.00856"
+"25","GO:0098771","inorganic ion homeostasis","0.00878"
