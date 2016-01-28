@@ -1,6 +1,6 @@
 library(topGO)
 #using files generated from ComparingPredicted...
-data=read.csv("PC3PelletC1downSigAKA363.csv", header=TRUE)
+data=read.csv("OrderedmiR363proteins.csv", header=TRUE)
 #Sorting for only genes that are expected to be changed in expression
 #For Upreg miR, protein should be negative and vice versa. 
 keep<- data[data$log2FoldChange>=0, ]
@@ -14,4 +14,4 @@ results.ks= runTest(GOdata, algorithm = "classic", statistic = "ks")
 results.ks
 allRes= GenTable(GOdata, KS= results.ks, orderBy= 'KS', topNodes=25)
 allRes[,c('GO.ID', 'Term', 'KS')]
-write.csv(allRes[,c('GO.ID', 'Term', 'KS')], "GOenrichmentMIR363MP.csv")
+write.csv(allRes[,c('GO.ID', 'Term', 'KS')], "GOenrichmentMIR363.csv")
