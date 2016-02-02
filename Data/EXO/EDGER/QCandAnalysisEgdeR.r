@@ -1,7 +1,11 @@
+library(lumi)
+library(edgeR)
 #To make life easier, load just a subset of the data. 
-rawdata <- read.csv("miRNA_raw_counts_HEK_Pellet.csv")
+rawdata <- read.csv("PC3exoRAW.csv", header= TRUE)
+rawdatahek<- read.csv("HEKexoRAW.csv", header=TRUE)
+comb<- cbind(rawdata, rawdatahek[, 2:16])
 # create a DGEList object. In this case, raw data is in columns 2 to 55, and unique identifiers are in 1 (miRNA name)
-y <- DGEList(counts=rawdata[,2:13], genes=rawdata[,1])
+y <- DGEList(counts=comb[,2:28], genes=rawdata[,1])
 # Filtering and Normalization
 # compute the effective library size by using TMM normalization
 keep <- rowSums(cpm(y)>10) >=2
@@ -9,7 +13,7 @@ y <- y[keep,]
 y$samples$lib.size <- colSums(y$counts)
 y <- calcNormFactors(y)
 #make QC plots
-pdf(file="PelletOnlyDend.pdf", paper="a4r")
+pdf(file="DendroHEKandPC.pdf", paper="a4r")
 d <-cpm(y, normalized.lib.sizes=TRUE)
 d<-t(d)
 dist<-dist(d)
@@ -20,19 +24,21 @@ dev.off()
 #export normalized data into tab delimited text for exploration in genespring
 cpm<- cpm(y, normalized.lib.sizes=TRUE)
 rownames(cpm)<-y$genes[,1]
-write.table(cpm, "cpm_miRNA_PC3_subset.txt", sep="\t")
+write.table(cpm, "cpm_miRNA_PC3exo_subset.txt", sep="\t")
 
 #plot the MDS
-tiff(file= "PelletOnlyMDS.tiff, width=480, height=480")
+tiff(file= "EXOPC3HEKcombMDS.tiff", width=480, height=480)
 plotMDS(y, method="bcv")
 dev.off()
 #make a scatterplot
+tiff(file="HEKPCexoScatter.tiff", width=480, height= 480)
 cpm<-replace(cpm, cpm==0, 0.01)
 min<-ExpressionSet(assayData=cpm)
 pairs(min, smoothScatter=TRUE)
+dev.off()
 
 # annotate groups
-Groups <-factor(c(rep(c("GFP", "CAV1", "CAV2","CAV3"),3)))
+Groups <-factor(c(rep(c("GFP","CAV1", "CAV2", "CAV3", "SDPR", "PTRF", "CAV", "PN", "PRKCA"),3)))
 design <- model.matrix(~Groups)
 rownames(design) <- colnames(y)
 
@@ -47,7 +53,7 @@ fit <- glmFit(y, design)
 
 # Identify differentially expressed genes first with individual comparisons
 # define groups
-y$samples$group <- c(rep(c("GFP", "CAV1", "CAV2","CAV3"),3))
+y$samples$group <- c(rep(c("GFP","CAV1", "CAV2", "CAV3"),3))
 
 
 # calculate differential expression
@@ -56,6 +62,7 @@ GFP_vs_CAV1 <- exactTest(y, pair=c("GFP","CAV1"))
 # The following results mean that there was 1 down-regulated gene, 1 up-regulated gene, and 364 
 # non-changing genes
 summary(de <- decideTestsDGE(GFP_vs_CAV1, p=0.05, adjust="BH"))
+write.csv(topTags(GFP_vs_CAV1, n=50), "PC3exoGFPvCAV1.csv")
 topTags(GFP_vs_CAV1, n=10)
 
 # calculate differential expression
@@ -65,6 +72,7 @@ GFP_vs_CAV2 <- exactTest(y, pair=c("GFP","CAV2"))
 # non-changing genes
 summary(de <- decideTestsDGE(GFP_vs_CAV2, p=0.05, adjust="BH"))
 topTags(GFP_vs_CAV2, n=10)
+write.csv(topTags(GFP_vs_CAV2, n=50), "PC3exoGFPvCAV2.csv")
 
 # calculate differential expression
 GFP_vs_CAV3 <- exactTest(y, pair=c("GFP","CAV3"))
@@ -73,3 +81,4 @@ GFP_vs_CAV3 <- exactTest(y, pair=c("GFP","CAV3"))
 # non-changing genes
 summary(de <- decideTestsDGE(GFP_vs_CAV3, p=0.05, adjust="BH"))
 topTags(GFP_vs_CAV3, n=10)
+write.csv(topTags(GFP_vs_CAV3, n=50), "PC3exoGFPVCav3.csv")
