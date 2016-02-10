@@ -18,8 +18,8 @@ ddsCav=DESeq(ddsCav)
 resCav= results(ddsCav, alpha=0.05)
 write.csv(resCav, "HEKEXOCaveVCav3.csv")
 
-rlogoddsdds=rlogTransformation(ddsCav)
-png("plotPCA_HEKCaveVCav3.png")
+rlogoddsdds=rlogTransformation(ddsCav1)
+png("plotPCA_Test.png")
 plotPCA(rlogoddsdds)
 dev.off()
 

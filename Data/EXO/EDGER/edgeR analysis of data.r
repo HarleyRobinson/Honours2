@@ -5,7 +5,7 @@ library(lumi)
 # read in the raw data
 rawdata <- read.delim("miRNA_raw_counts_CORRECT_NAMES.txt")
 # create a DGEList object. In this case, raw data is in columns 2 to 55, and unique identifiers are in 1 (miRNA name)
-y <- DGEList(counts=rawdata[,2:55], genes=rawdata[,1])
+y <- DGEList(counts=rawdata[,1:8], genes=rownames(rawdata))
 # Filtering and Normalization
 # compute the effective library size by using TMM normalization
 keep <- rowSums(cpm(y)>10) >=2

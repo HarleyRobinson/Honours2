@@ -1,10 +1,10 @@
 library(DESeq2)
 #Always filter and normalise the data first (FilteringandSubsetting.r)
-rawdata<- read.csv(file="miRNA_raw_counts_PC3_filtered.csv", header= TRUE, row.names=1)
-Cav2PN4= rawdata[c(3,7, 11, 1, 5, 9)]
-Cav1PN4= rawdata[c(2, 6, 10, 1, 5, 9)]
+rawdata<- read.csv(file="miRNA_analysis_kerry.csv", header= TRUE, row.names=1)
+#Cav2PN4= rawdata[c(3,7, 11, 1, 5, 9)]
+Cav1PN4= rawdata[c(1:3, 5, 6, 7)]
 #CaveolinPN4= rawdata[c(3, 8, 13, 1, 5, 14)]
-Cav3PN4= rawdata[c(4, 8, 12, 1, 5, 9)]
+#Cav3PN4= rawdata[c(4, 8, 12, 1, 5, 9)]
 # Filtering and Normalization
 # compute the effective library size by using TMM normalization
 #Analysis for Cavin1
