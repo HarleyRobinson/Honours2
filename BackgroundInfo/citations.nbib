@@ -1,0 +1,86 @@
+
+PMID- 24375805
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140218
+DCOM- 20140501
+IS  - 1097-0045 (Electronic)
+IS  - 0270-4137 (Linking)
+VI  - 74
+IP  - 5
+DP  - 2014 May
+TI  - Expression profiles and functional associations of endogenous androgen receptor
+      and caveolin-1 in prostate cancer cell lines.
+PG  - 478-87
+LID - 10.1002/pros.22767 [doi]
+AB  - BACKGROUND: In prostate cancer (PCa) patients, the protein target for androgen
+      deprivation and blockade therapies is androgen receptor (AR). AR interacts with
+      many proteins that function to either co-activate or co-repress its activity.
+      Caveolin-1 (Cav-1) is not found in normal prostatic epithelium, but is found in
+      PCa, and may be an AR co-regulator protein. METHODS: We investigated cell
+      line-specific signatures and associations of endogenous AR and Cav-1 in six PCa
+      cell lines of known androgen sensitivity: LNCaP (androgen sensitive); 22Rv1
+      (androgen responsive); PC3, DU145, and ALVA41 (androgen non-reliant); and RWPE1
+      (non-malignant). Protein and mRNA expression profiles were compared and electron 
+      microscopy used to identify cells with caveolar structures. For cell lines
+      expressing both AR and Cav-1, knockdown techniques using small interfering RNA
+      against AR or Cav-1 were used to test whether diminished expression of one
+      affected the other. Co-sedimentation of AR and Cav-1 was used to test their
+      association. A reporter assay for AR genomic activity was utilized following
+      Cav-1 knockdown. RESULTS: AR-expressing LNCaP and 22Rv1 cells had low endogenous 
+      Cav-1 mRNA and protein. Cell lines that expressed little or no AR (DU145, PC3,
+      ALVA41, and RWPE1) expressed high endogenous levels of Cav-1. AR knockdown in
+      LNCaP cells had little effect on Cav-1, but Cav-1 knockdown inhibited AR
+      expression and genomic activity. CONCLUSIONS: These data show endogenous AR and
+      Cav-1 mRNA and protein expression is inversely related in PCa cells, with Cav-1
+      acting on the androgen/AR signaling axis possibly as an AR co-activator,
+      demonstrated by diminished AR genomic activity following Cav-1 knockdown.
+CI  - (c) 2013 Wiley Periodicals, Inc.
+FAU - Bennett, Nigel C
+AU  - Bennett NC
+AD  - Centre for Kidney Disease Research, School of Medicine, University of Queensland,
+      Translational Research Institute, Woolloongabba, Brisbane, Australia.
+FAU - Hooper, John D
+AU  - Hooper JD
+FAU - Johnson, David W
+AU  - Johnson DW
+FAU - Gobe, Glenda C
+AU  - Gobe GC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131224
+PL  - United States
+TA  - Prostate
+JT  - The Prostate
+JID - 8101368
+RN  - 0 (Caveolin 1)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (Receptors, Androgen)
+SB  - IM
+MH  - Caveolin 1/genetics/*metabolism
+MH  - Cell Line, Tumor
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Male
+MH  - Prostate/metabolism/pathology
+MH  - Prostatic Neoplasms/genetics/*metabolism/pathology
+MH  - RNA, Small Interfering
+MH  - Receptors, Androgen/genetics/*metabolism
+MH  - Transcription, Genetic
+OTO - NOTNLM
+OT  - androgen deprivation
+OT  - androgen-dependent
+OT  - androgen-sensitive
+OT  - co-activator
+OT  - prostate
+OT  - prostate cancer
+EDAT- 2014/01/01 06:00
+MHDA- 2014/05/03 06:00
+CRDT- 2013/12/31 06:00
+PHST- 2013/06/18 [received]
+PHST- 2013/12/02 [accepted]
+PHST- 2013/12/24 [aheadofprint]
+AID - 10.1002/pros.22767 [doi]
+PST - ppublish
+SO  - Prostate. 2014 May;74(5):478-87. doi: 10.1002/pros.22767. Epub 2013 Dec 24.
