@@ -1,0 +1,84 @@
+
+PMID- 18955434
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090106
+DCOM- 20090303
+LR  - 20150214
+IS  - 1088-9051 (Print)
+IS  - 1088-9051 (Linking)
+VI  - 19
+IP  - 1
+DP  - 2009 Jan
+TI  - Most mammalian mRNAs are conserved targets of microRNAs.
+PG  - 92-105
+LID - 10.1101/gr.082701.108 [doi]
+AB  - MicroRNAs (miRNAs) are small endogenous RNAs that pair to sites in mRNAs to
+      direct post-transcriptional repression. Many sites that match the miRNA seed
+      (nucleotides 2-7), particularly those in 3' untranslated regions (3'UTRs), are
+      preferentially conserved. Here, we overhauled our tool for finding preferential
+      conservation of sequence motifs and applied it to the analysis of human 3'UTRs,
+      increasing by nearly threefold the detected number of preferentially conserved
+      miRNA target sites. The new tool more efficiently incorporates new genomes and
+      more completely controls for background conservation by accounting for mutational
+      biases, dinucleotide conservation rates, and the conservation rates of individual
+      UTRs. The improved background model enabled preferential conservation of a new
+      site type, the "offset 6mer," to be detected. In total, >45,000 miRNA target
+      sites within human 3'UTRs are conserved above background levels, and >60% of
+      human protein-coding genes have been under selective pressure to maintain pairing
+      to miRNAs. Mammalian-specific miRNAs have far fewer conserved targets than do the
+      more broadly conserved miRNAs, even when considering only more recently emerged
+      targets. Although pairing to the 3' end of miRNAs can compensate for seed
+      mismatches, this class of sites constitutes less than 2% of all preferentially
+      conserved sites detected. The new tool enables statistically powerful analysis of
+      individual miRNA target sites, with the probability of preferentially conserved
+      targeting (P(CT)) correlating with experimental measurements of repression. Our
+      expanded set of target predictions (including conserved 3'-compensatory sites),
+      are available at the TargetScan website, which displays the P(CT) for each site
+      and each predicted target.
+FAU - Friedman, Robin C
+AU  - Friedman RC
+AD  - Department of Biology, Massachusetts Institute of Technology, Cambridge,
+      Massachusetts 02139, USA.
+FAU - Farh, Kyle Kai-How
+AU  - Farh KK
+FAU - Burge, Christopher B
+AU  - Burge CB
+FAU - Bartel, David P
+AU  - Bartel DP
+LA  - eng
+GR  - R01 GM067031/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20081027
+PL  - United States
+TA  - Genome Res
+JT  - Genome research
+JID - 9518021
+RN  - 0 (3' Untranslated Regions)
+RN  - 0 (MicroRNAs)
+RN  - 0 (RNA, Messenger)
+SB  - IM
+MH  - 3' Untranslated Regions
+MH  - Animals
+MH  - Base Sequence
+MH  - Conserved Sequence
+MH  - Evolution, Molecular
+MH  - Humans
+MH  - Mammals/*genetics
+MH  - MicroRNAs/*genetics
+MH  - Phylogeny
+MH  - RNA, Messenger/*genetics
+MH  - Sequence Alignment
+MH  - Sequence Homology, Nucleic Acid
+PMC - PMC2612969
+EDAT- 2008/10/29 09:00
+MHDA- 2009/03/04 09:00
+CRDT- 2008/10/29 09:00
+PHST- 2008/10/27 [aheadofprint]
+PHST- 2008/12/02 [aheadofprint]
+AID - gr.082701.108 [pii]
+AID - 10.1101/gr.082701.108 [doi]
+PST - ppublish
+SO  - Genome Res. 2009 Jan;19(1):92-105. doi: 10.1101/gr.082701.108. Epub 2008 Oct 27.
