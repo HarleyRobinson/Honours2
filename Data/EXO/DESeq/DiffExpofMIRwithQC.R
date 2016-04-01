@@ -7,16 +7,16 @@ CaveolinPN4= rawdata[c(1:3, 4:6)]
 Cav3PN4= rawdata[c(7:9, 1:3)]
 
 #Analysis for Cavin
-exp_designCav = data.frame(row.names = colnames(Cav1PN4),
+exp_designCav = data.frame(row.names = colnames(data),
                             condition =c("Test", "Test", "Test", "Cont", "Cont", "Cont"),
                             libType = c("paired-end", "paired-end", "paired-end", "paired-end", "paired-end", "paired-end"))
 condition= relevel(exp_designCav$condition, "Test")
 levels(exp_designCav)
 head(exp_designCav)
-ddsCav=DESeqDataSetFromMatrix(countData=Cav1PN4, colData=exp_designCav, design=~condition)
+ddsCav=DESeqDataSetFromMatrix(countData=data, colData=exp_designCav, design=~condition)
 ddsCav=DESeq(ddsCav)
 resCav= results(ddsCav, alpha=0.05)
-write.csv(resCav, "HEKEXOCaveVCav3.csv")
+write.csv(resCav, "GFPCavin-1Subbed.csv")
 
 rlogoddsdds=rlogTransformation(ddsCav1)
 png("plotPCA_Test.png")

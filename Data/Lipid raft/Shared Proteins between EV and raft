@@ -1,0 +1,17 @@
+"","Protein.Name","Mean.Ratio..cavin1.GFP.","Standard.Deviations","Number.of.Observations","p.value"
+"P04004","Vitronectin OS=Homo sapiens GN=VTN PE=1 SV=1",0.026857143,0.018114714,7,0.00159
+"O75369","Filamin-B OS=Homo sapiens GN=FLNB PE=1 SV=1",0.34565,0.18135173,20,0.00713
+"P35579","Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4",0.328,0.17154941,6,0.00937
+"P13796","Plastin-2 OS=Homo sapiens GN=LCP1 PE=1 SV=5",0.404535714,0.123389621,28,0.00989
+"P21980","Protein-glutamine gamma-glutamyltransferase 2 OS=Homo sapiens GN=TGM2 PE=1 SV=2",0.470206897,0.189665943,29,0.01055
+"P58107","Epiplakin OS=Homo sapiens GN=EPPK1 PE=1 SV=1",0.3878,0.172913851,5,0.01105
+"O75487","Glypican-4 OS=Homo sapiens GN=GPC4 PE=1 SV=4",0.37725,0.014728091,4,0.01281
+"P08195","4F2 cell-surface antigen heavy chain OS=Homo sapiens GN=SLC3A2 PE=1 SV=3",0.442428571,0.116382469,14,0.01487
+"P30101","Protein disulfide-isomerase A3 OS=Homo sapiens GN=PDIA3 PE=1 SV=4",0.573573529,0.175129233,68,0.01655
+"P62736","Actin, aortic smooth muscle OS=Homo sapiens GN=ACTA2 PE=1 SV=1",0.630724771,0.13393281,109,0.02445
+"P29317","Ephrin type-A receptor 2 OS=Homo sapiens GN=EPHA2 PE=1 SV=2",0.527,0.081767964,11,0.02467
+"P30041","Peroxiredoxin-6 OS=Homo sapiens GN=PRDX6 PE=1 SV=3",0.58484252,0.130277508,127,0.0293
+"P63104","14-3-3 protein zeta/delta OS=Homo sapiens GN=YWHAZ PE=1 SV=1",0.646108108,0.159681495,74,0.02979
+"Q92616","Translational activator GCN1 OS=Homo sapiens GN=GCN1L1 PE=1 SV=5",0.458,0.175527776,4,0.033
+"P60709","Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1",0.623763158,0.118843625,38,0.03402
+"P21333","Filamin-A OS=Homo sapiens GN=FLNA PE=1 SV=4",0.606636364,0.303974395,22,0.0465
