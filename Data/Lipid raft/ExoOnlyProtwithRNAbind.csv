@@ -1,0 +1,7 @@
+"","Protein.Name","Mean.Ratio..cavin1.GFP.","Standard.Deviations","Number.of.Observations","p.value"
+"P23396","40S ribosomal protein S3 OS=Homo sapiens GN=RPS3 PE=1 SV=2",14.7045,19.64837613,2,0.0013
+"P62318","Small nuclear ribonucleoprotein Sm D3 OS=Homo sapiens GN=SNRPD3 PE=1 SV=1",0.336666667,0.232680754,3,0.01208
+"P14625","Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1",0.605578947,0.120543023,76,0.01779
+"P35637","RNA-binding protein FUS OS=Homo sapiens GN=FUS PE=1 SV=1",0.418333333,0.090643992,3,0.02977
+"Q12905","Interleukin enhancer-binding factor 2 OS=Homo sapiens GN=ILF2 PE=1 SV=2",0.516714286,0.239430376,7,0.03431
+"P61978","Heterogeneous nuclear ribonucleoprotein K OS=Homo sapiens GN=HNRNPK PE=1 SV=1",0.5651,0.137066448,10,0.04884
