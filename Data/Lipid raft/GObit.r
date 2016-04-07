@@ -2,18 +2,18 @@ source("https://bioconductor.org/biocLite.R")
 biocLite("biomaRt")
 library(biomaRt)
 mart <- useMart(biomart = "ensembl", dataset = "hsapiens_gene_ensembl") 
-results <- getBM(attributes = c("go_id"), filters = "refseq_mrna", values = c("9606.ENSP00000404029"), mart = mart) 
+results <- getBM(attributes = c("go_id"), filters = "hgnc_symbol", values = c("SUPT5H"), mart = mart) 
 nipps<- 0
 for (name in plist) {
   name= as.character(name)
-  nipps[name] <- getBM(attributes = c("go_id"), filter="uniprot_swissprot", values = c(name), mart = mart)
+  nipps[name] <- getBM(attributes = c("go_id"), filter="hgnc_symbol", values = c(name), mart = mart)
 }
 name<- "Q9NVA2"
 results <- getBM(attributes = c("go_id"), filter="uniprot_swissprot", values = c("Q53H82"), mart = mart) 
 GORNAbind<- 0
 i= 0
 for (list in nipps) {
-  GORNAbind[i]<- "GO:0003723"%in%list
+  GORNAbind[i]<- "GO:0016020"%in%list
   i=i+1
 }
 #GO:0003723 for RNA bind
