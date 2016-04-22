@@ -1,6 +1,6 @@
 import csv
 import re
-f= open('DRMinsig.csv', 'r')
+f= open('ProteosomeInsig.csv', 'r')
 new= []
 
 for line in f:
@@ -8,6 +8,6 @@ for line in f:
     m= re.findall("GN=(\w+)", str(result))
     if len(m)==1:
         new.append(m)
-with open('RaftinsigParsed.csv', 'w') as f:
+with open('ExoinsigParsed.csv', 'w') as f:
     writer=csv.writer(f, delimiter= ',')
     writer.writerows(new)
