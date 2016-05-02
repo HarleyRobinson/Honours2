@@ -1,0 +1,12 @@
+By Thursday-5thMay: 
+- Split cells and SF plated cells (Tuesday)
+	- If confluent enough, make more plates on Tuesday to be ready by Thursday. (Add 4mLs to Cavin-1 T175s to get 1:2 split, and 
+	6mLs to GFP for 1:3 split)- Split T175 flasks on Thursday as well due to high confluency. 
+	-If these plates were made, then another exoRNeasy run will need to be completed on Friday, with SF added on Thursday.
+- Collect conditioned media, concentrate and extract RNA for both GFP and cavin-1 cells. (Completed Wednesday)
+- Run motif discovery on all up, all down, Significantly down (cavin-1vGFP), SigDifferental down (4),
+ DifferentalDownNon-sig (need to make list), DiffernetUPnon-sig(need list). 
+	-Get PWM for each as csv file (to make logo)
+	-ScoreMotif, comapre motif back to original list of mirs, and against database of motifs
+	-Make file that contains the motif, protein with that motif, nd mirs with that motif maybe as dictionary
+
