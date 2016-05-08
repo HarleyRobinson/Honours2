@@ -1,0 +1,6 @@
+To Do: 
+- Group all mirs sig based on P-val (NOT ADJ)
+- Group based on differential or not. 
+- Rerun all comparasions and motif discoveries
+- Then NETWORK: Motif connecting to miRNAs
+- Maybe heatmap the differences (distances) between motifs
