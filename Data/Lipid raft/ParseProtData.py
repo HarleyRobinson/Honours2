@@ -1,13 +1,13 @@
 import csv
 import re
-f= open('ProteosomeInsig.csv', 'r')
+import os
+os.chdir('C:\\Users\\hrobinson\\Documents\\FromVirtualBox')
+f= open('AllMirsInDataSet.fa', 'r')
 new= []
-
 for line in f:
-    result= line.split(",")
-    m= re.findall("GN=(\w+)", str(result))
-    if len(m)==1:
-        new.append(m)
-with open('ExoinsigParsed.csv', 'w') as f:
-    writer=csv.writer(f, delimiter= ',')
-    writer.writerows(new)
+    result= line.split("\t")
+    new.append(result)
+    
+with open('ParsedMirs.fa', 'w') as f:
+    writer=f.write(str(new))
+    #writer.writerows(result)
