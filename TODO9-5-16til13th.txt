@@ -1,0 +1,19 @@
+To Do this coming week:
+Monday: 
+	- Split cells onto plates and flasks. 30minutes
+	- SF plates. 30minutes
+	- Serial dilution primer test. 
+		- Book the PCR machine
+		-7primers in triplicate.21 rows with 1:1 1:10 1:100 1:1000 +water
+		-Plate set up; 23.1uL of cDNA, serial dilute into 21uL with 2.1uL.
+		 in tubes. Then plate 1uL into each well (13 across, 7 down)
+Tuesday: 
+	- exRNeasy kiton the SFd plates
+	- bioinformatics.
+		- import, convert dos2unix U>Ts and make txt files ALL FILES. 
+		- Get motifs, score for motifs, compile motifs that are enriched. 
+Wednesday:
+	- Bioinormatics again
+	-Maybe an early day, unless the primer test doesnt work
+Thursday:
+	- SF plates  
