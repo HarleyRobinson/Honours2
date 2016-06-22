@@ -2,12 +2,12 @@ import csv
 import re
 import os
 os.chdir('C:\\Users\\hrobinson\\Documents\\FromVirtualBox')
-f= open('AllMirsInDataSet.fa', 'r')
+f= open('AllMatchedToMotifs.csv', 'r')
 new= []
 for line in f:
-    result= line.split("\t")
+    result= line.replace(' ', ',')
     new.append(result)
-    
-with open('ParsedMirs.fa', 'w') as f:
+new=(", ".join(new))
+with open('MatchedMotifsAllMirs.csv', 'w') as f:
     writer=f.write(str(new))
     #writer.writerows(result)
