@@ -10,10 +10,10 @@ data <- read.csv("HeatMapTest.csv", comment.char="#")
 rnames <- data[,1]                            # assign labels in column 1 to "rnames"
 mat_data <- data.matrix(data[,2:ncol(data)])  # transform column 2-5 into a matrix
 rownames(mat_data) <- rnames
-my_palette <- colorRampPalette(c("red", "yellow", "green"))(n = 299)
-col_breaks = c(seq(-1,0.0001,length=100),  # for red
-               seq(0.0002,0.8,length=100),              # for yellow
-               seq(0.80001,1,length=100))              # for green
+my_palette <- colorRampPalette(c("black", "grey", "white"))(n = 299)
+col_breaks = c(seq(-10,-2,length=100),  # for red
+               seq(-2.1, 2,length=100),              # for yellow
+               seq(2.1, 10,length=100))              # for green
 png("Maps.png",    # create PNG for the heat map        
     width = 5*300,        # 5 x 300 pixels
     height = 5*300,
