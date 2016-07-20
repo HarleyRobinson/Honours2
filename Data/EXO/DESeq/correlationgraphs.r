@@ -30,8 +30,8 @@ library(ggrepel)
 imp<- c("hsa-miR-363-3p", "hsa-miR-20b-5p", "hsa-miR-19a-3p", "hsa-miR-148a-3p", "hsa-miR-574-3p", "hsa-miR-146a-5p", "hsa-miR-30a-5p", "hsa-miR-10b-5p", "hsa-miR-200a-3p")
 text(rf[imp,], rg[imp,], labels=imp)
 #####Attempting to do FC correlation plots
-#Cell<-read.csv("CELLcavin1VGFP.csv", header= TRUE, row.names= 1)
-#Exo<- read.csv("EXOcavin1VGFP.csv", header= TRUE, row.names= 1)
+Cell<-read.csv("CELLcavin1VGFP.csv", header= TRUE, row.names= 1)
+Exo<- read.csv("EXOcavin1VGFP.csv", header= TRUE, row.names= 1)
 name<- intersect(rownames(Cell), rownames(Exo))
 data<- Cell[cbind(name), ]
 CellD<- data[order(rownames(data)), ]
@@ -39,9 +39,11 @@ ExoD<- Exo[name,]
 ExoD<- ExoD[order(rownames(ExoD)), ]
 plot(CellD$log2FoldChange, ExoD$log2FoldChange, main= "MicroRNA expression FC between GFP and Cavin-1", xlab="CELL FC", ylab= "EXO FC", pch=19, xlim=c(-3.1, 1.5), ylim=c(-3.1, 1.5))
 reg1<- lm(CellD$log2FoldChange~ExoD$log2FoldChange)
-summary(lm(CellD$log2FoldChange~ExoD$log2FoldChange))
-abline(0, 0.75)
-text(CellD[imp, "log2FoldChange"], ExoD[imp, "log2FoldChange"], imp, ylim=c(-3.5, 1.5), xlim= c(-3.5, 1.5))
+#summary(lm(CellD$log2FoldChange~ExoD$log2FoldChange))
+#abline(0, 0.9)
+abline(0.4, 0.9)
+abline(-0.4,0.9)
+text(CellD[imp, "log2FoldChange"], ExoD[imp, "log2FoldChange"], imp, ylim=c(-3.5, 1.5), xlim= c(-3.5, 1.5), cex = 1.2)
 
 #tring to get the labels to repel
 install.packages(c("wordcloud","tm"),repos="http://cran.r-project.org")
