@@ -37,6 +37,7 @@ data<- Cell[cbind(name), ]
 CellD<- data[order(rownames(data)), ]
 ExoD<- Exo[name,]
 ExoD<- ExoD[order(rownames(ExoD)), ]
+par(cex.axis=2, cex.main=2.5, cex.lab=2, mar=c(5,5,5,5))
 plot(CellD$log2FoldChange, ExoD$log2FoldChange, main= "MicroRNA expression FC between GFP and Cavin-1", xlab="CELL FC", ylab= "EXO FC", pch=19, xlim=c(-3.1, 1.5), ylim=c(-3.1, 1.5))
 reg1<- lm(CellD$log2FoldChange~ExoD$log2FoldChange)
 #summary(lm(CellD$log2FoldChange~ExoD$log2FoldChange))
