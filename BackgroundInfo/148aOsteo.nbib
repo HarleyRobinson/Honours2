@@ -1,0 +1,90 @@
+
+PMID- 23225151
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130418
+DCOM- 20131018
+IS  - 1523-4681 (Electronic)
+IS  - 0884-0431 (Linking)
+VI  - 28
+IP  - 5
+DP  - 2013 May
+TI  - miR-148a regulates osteoclastogenesis by targeting V-maf musculoaponeurotic
+      fibrosarcoma oncogene homolog B.
+PG  - 1180-90
+LID - 10.1002/jbmr.1845 [doi]
+AB  - MicroRNAs (miRNAs) play crucial roles in bone metabolism. In the present study,
+      we found that miR-148a is dramatically upregulated during osteoclastic
+      differentiation of circulating CD14+ peripheral blood mononuclear cells (PBMCs)
+      induced by macrophage colony stimulating factor (M-CSF) and receptor activator of
+      nuclear factor-kappaB ligand (RANKL). Overexpression of miR-148a in CD14+ PBMCs
+      promoted osteoclastogenesis, whereas inhibition of miR-148a attenuated
+      osteoclastogenesis. V-maf musculoaponeurotic fibrosarcoma oncogene homolog B
+      (MAFB) is a transcription factor negatively regulating RANKL-induced
+      osteoclastogenesis. miR-148a directly targeted MAFB mRNA by binding to the 3'
+      untranslated region (3'UTR) and repressed MAFB protein expression. In vivo, our
+      study showed that silencing of miR-148a using a specific antagomir-inhibited bone
+      resorption and increased bone mass in mice receiving ovariectomy (OVX) and in
+      sham-operated control mice. Furthermore, our results showed that miR-148a levels 
+      significantly increased in CD14+ PBMCs from lupus patients and resulted in
+      enhanced osteoclastogenesis, which contributed to the lower bone mineral density 
+      (BMD) in lupus patients compared with normal controls. Thus, our study provides a
+      new insight into the roles of miRNAs in osteoclastogenesis, and contributes to a 
+      new therapeutic pathway for osteoporosis.
+CI  - Copyright (c) 2013 American Society for Bone and Mineral Research.
+FAU - Cheng, Peng
+AU  - Cheng P
+AD  - Institute of Endocrinology and Metabolism, The Second Xiangya Hospital of Central
+      South University, Changsha, Hunan, PR China.
+FAU - Chen, Chao
+AU  - Chen C
+FAU - He, Hong-Bo
+AU  - He HB
+FAU - Hu, Rong
+AU  - Hu R
+FAU - Zhou, Hou-De
+AU  - Zhou HD
+FAU - Xie, Hui
+AU  - Xie H
+FAU - Zhu, Wu
+AU  - Zhu W
+FAU - Dai, Ru-Chun
+AU  - Dai RC
+FAU - Wu, Xian-Ping
+AU  - Wu XP
+FAU - Liao, Er-Yuan
+AU  - Liao EY
+FAU - Luo, Xiang-Hang
+AU  - Luo XH
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - J Bone Miner Res
+JT  - Journal of bone and mineral research : the official journal of the American
+      Society for Bone and Mineral Research
+JID - 8610640
+RN  - 0 (MAFB protein, human)
+RN  - 0 (MIRN148 microRNA, human)
+RN  - 0 (MafB Transcription Factor)
+RN  - 0 (MicroRNAs)
+SB  - IM
+MH  - Bone and Bones/metabolism
+MH  - Case-Control Studies
+MH  - Cell Differentiation
+MH  - Humans
+MH  - Lupus Erythematosus, Systemic/metabolism/pathology
+MH  - MafB Transcription Factor/*genetics
+MH  - MicroRNAs/*physiology
+MH  - Monocytes/immunology
+MH  - Osteoclasts/*cytology
+MH  - Up-Regulation
+EDAT- 2012/12/12 06:00
+MHDA- 2013/10/19 06:00
+CRDT- 2012/12/11 06:00
+PHST- 2012/08/01 [received]
+PHST- 2012/11/15 [revised]
+PHST- 2012/11/26 [accepted]
+AID - 10.1002/jbmr.1845 [doi]
+PST - ppublish
+SO  - J Bone Miner Res. 2013 May;28(5):1180-90. doi: 10.1002/jbmr.1845.
