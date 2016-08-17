@@ -1,0 +1,4 @@
+Note on Pull down data: western, anti rabbit, IP
+Ladder, L, Blank, WCL, [mext 4 are without crosslink], 148acontrol, 148a result, IP control, IPresults. Now the next few im unsure. 
+according to my notes its, 148a sample, IP control, IP result and then 148a result. But that cant be true becuase the positive result is currently
+the lane that should be blank (IP control)
