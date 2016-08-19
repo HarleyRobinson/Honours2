@@ -38,11 +38,13 @@ CellD<- data[order(rownames(data)), ]
 ExoD<- Exo[name,]
 ExoD<- ExoD[order(rownames(ExoD)), ]
 par(cex.axis=2, cex.main=2.5, cex.lab=2, mar=c(5,5,5,5))
-plot(CellD$log2FoldChange, ExoD$log2FoldChange, main= "MicroRNA expression FC between GFP and Cavin-1", xlab="CELL FC", ylab= "EXO FC", pch=19, xlim=c(-3.1, 1.5), ylim=c(-3.1, 1.5))
+plot(CellD$log2FoldChange, ExoD$log2FoldChange, xlab="CELL log2FC", ylab= "EV log2FC", pch=20, cex= 2, xlim=c(-3.1, 2), ylim=c(-3.1, 2), bty="n")
+
+
 reg1<- lm(CellD$log2FoldChange~ExoD$log2FoldChange)
 summary(lm(CellD$log2FoldChange~ExoD$log2FoldChange))
 #abline(0, 0.9)
-predict(reg1, interval= "confidence")
+CI<- predict(reg1, interval= "confidence")
 abline(0.4, 0.9)
 abline(-0.4,0.9)
 text(CellD[imp, "log2FoldChange"], ExoD[imp, "log2FoldChange"], imp, ylim=c(-3.5, 1.5), xlim= c(-3.5, 1.5), cex = 1.2)
