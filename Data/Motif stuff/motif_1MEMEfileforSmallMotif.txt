@@ -1,0 +1,44 @@
+MEME version 4.11.2
+
+ALPHABET "RNA" RNA-LIKE
+A "Adenine" CC0000
+C "Cytosine" 0000CC
+G "Guanine" FFB300
+U "Uracil" 008000
+N "Any base" = ACGU
+. = ACGU
+X = ACGU
+V "Not U" = ACG
+H "Not G" = ACU
+D "Not C" = AGU
+B "Not A" = CGU
+M "Amino" = AC
+R "Purine" = AG
+W "Weak" = AU
+S "Strong" = CG
+Y "Pyrimidine" = CU
+K "Keto" = GU
+T = U
+END ALPHABET
+
+Background letter frequencies (from unknown source):
+A 0.273 C 0.153 G 0.292 U 0.282
+
+MOTIF 1
+
+log-odds matrix: alength= 4 w= 6 E= 1.4e-009
+    98  -1035  -1035     71
+ -1035  -1035    166   -187
+ -1035    -99  -1035    171
+    17  -1035    125  -1035
+   -24    201    -92  -1035
+   117  -1035   -192     12
+
+
+letter-probability matrix: alength= 4 w= 6 nsites= 13 E= 1.4e-009
+0.538462 0.000000 0.000000 0.461538
+0.000000 0.000000 0.923077 0.076923
+0.000000 0.076923 0.000000 0.923077
+0.307692 0.000000 0.692308 0.000000
+0.230769 0.615385 0.153846 0.000000
+0.615385 0.000000 0.076923 0.307692

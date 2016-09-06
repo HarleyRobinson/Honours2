@@ -1,0 +1,10 @@
+#pattern name	sequence name	start	stop	strand	score	p-value	q-value	matched sequence
+1	hnRNPK	6	11	+	-1.0396	0.0405	0.404	ugugac
+1	hnRNPK	4	9	+	-2.37624	0.0593	0.404	agugug
+1	hnRNPK	12	17	+	-2.9802	0.0713	0.404	aauggu
+1	hnRNPK	1	6	+	-4.36634	0.0984	0.418	uggagu
+
+#results using FIMO software online via MEME-suite page. 
+# inputted hnRNPK binding miR 122-5p sequence which contains mutangenised site (AGUGUG) to determine
+# if known motif binds to this region also.
+# Known motif saved as motif-1-etc etc in motif_stuff folder. 
