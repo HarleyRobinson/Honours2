@@ -2,28 +2,117 @@
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-78 203.7 841.9 595.3"
-	 enable-background="new -78 203.7 841.9 595.3" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+	 enable-background="new 0 0 1000 1000" xml:space="preserve">
 <g id="layer1" transform="translate(0,-308.26772)">
 	
-		<image overflow="visible" width="557" height="468" xlink:href="D681B480.jpg"  transform="matrix(0.4991 0 0 0.476 249.3092 768.0811)">
+		<image overflow="visible" enable-background="new    " width="558" height="448" xlink:href="D681B480.jpg"  transform="matrix(0.5148 0 0 0.5748 395.0557 373.2936)">
 	</image>
-	<text transform="matrix(1 0 0 1 255.9898 779.5444)" font-family="'ArialMT'" font-size="24">B</text>
-	<rect x="303" y="833.4" fill="#070707" stroke="#231F20" width="9.5" height="44.5"/>
-	<rect x="340.6" y="833.2" fill="#070707" stroke="#231F20" width="9.5" height="21.3"/>
-	<rect x="377.2" y="833.4" fill="#070707" stroke="#231F20" width="9.9" height="14"/>
-	<rect x="414.7" y="832.9" fill="#070707" stroke="#231F20" width="10.4" height="29"/>
-	<rect x="452" y="824.2" fill="#070707" stroke="#231F20" width="9.5" height="8.9"/>
-	<rect x="490.2" y="833.4" fill="#070707" stroke="#231F20" width="9" height="14"/>
-	<rect id="rect4219_1_" x="492.1" y="775.4" stroke="#000000" stroke-width="6" width="2.5" height="1.1"/>
-	<text transform="matrix(0.9352 0 0 1 500.5029 779.5444)" font-family="'ArialMT'" font-size="10.6391">EVs</text>
-	<rect id="rect4219-4_1_" x="489" y="784.8" fill="#FFFFFF" stroke="#000000" stroke-width="0.3582" width="8.8" height="7.8"/>
-	<text transform="matrix(0.9352 0 0 1 499.7568 792.6)" font-family="'ArialMT'" font-size="10.6391">Cell</text>
+	<text transform="matrix(1 0 0 1 406.0433 383.365)" font-family="'ArialMT'" font-size="28.5069">B</text>
+	<rect x="450.9" y="449.2" fill="#070707" stroke="#231F20" width="9.6" height="52.9"/>
+	<rect x="490.3" y="449.2" fill="#070707" stroke="#231F20" width="9.6" height="25.3"/>
+	<rect x="527.4" y="449.2" fill="#070707" stroke="#231F20" width="10" height="16.6"/>
+	<rect x="565.5" y="449.2" fill="#070707" stroke="#231F20" width="10.6" height="34.4"/>
+	<rect x="605" y="438.6" fill="#070707" stroke="#231F20" width="9.6" height="10.6"/>
+	<rect x="644" y="449.2" fill="#070707" stroke="#231F20" width="9.1" height="16.6"/>
 	
-		<image overflow="visible" width="541" height="459" xlink:href="D681B481.jpg"  transform="matrix(0.4402 0 0 0.4619 8.8333 773.4647)">
+		<image overflow="visible" enable-background="new    " width="544" height="485" xlink:href="D681B481.jpg"  transform="matrix(0.509 0 0 0.5341 115.4604 372.5404)">
 	</image>
-	<path fill="none" d="M634.8,928.5"/>
-	<path fill="none" d="M-1.8,929.5"/>
-	<text transform="matrix(1 0 0 1 7.1904 779.5444)" font-family="'ArialMT'" font-size="24">A</text>
+	<path fill="none" d="M856,560.3"/>
+	<path fill="none" d="M99.8,561.5"/>
+	<text transform="matrix(1 0 0 1 110.5218 383.365)" font-family="'ArialMT'" font-size="28.5069">A</text>
+	
+		<image overflow="visible" width="105" height="74" xlink:href="D681B486.jpg"  transform="matrix(0.4795 0 0 0.4966 449.5833 397.2677)">
+	</image>
+	<rect id="rect4219-4_1_" x="451.9" y="420.5" fill="#FFFFFF" stroke="#000000" stroke-width="0.3582" width="18.6" height="11.3"/>
+	<image overflow="visible" width="105" height="74" xlink:href="D681B483.jpg"  transform="matrix(1 0 0 1 -7665.6665 -7383.7324)">
+	</image>
+	<text transform="matrix(1 0 0 1 86.3333 652.2678)"><tspan x="0" y="0" font-family="'TimesNewRomanPS-BoldMT'" font-size="14">Figure 1: </tspan><tspan x="58.3" y="0" font-family="'TimesNewRomanPS-ItalicMT'" font-size="14">Addition of cavin-1 to PC3 cells modifies EV microRNAs.</tspan><tspan x="381.4" y="0" font-family="'TimesNewRomanPSMT'" font-size="14"> A) RNA-seq was performed previously on </tspan><tspan x="0" y="16.8" font-family="'TimesNewRomanPSMT'" font-size="14">microRNAs contained in the EV and cellular content of PC3-GFP and PC3-cavin-1 cells. DESeq2 analysis compared </tspan><tspan x="0" y="33.6" font-family="'TimesNewRomanPSMT'" font-size="14">PC3-GFP to PC3-cavin-1 EV content (black), expressed as log2FC, to determine the effect of cavin-1 on EV miR </tspan><tspan x="0" y="50.4" font-family="'TimesNewRomanPSMT'" font-size="14">content. miRs that were significantly modified (* p ≤ 0.05) in the EVs were plotted. Analysis was repeated on cellular </tspan><tspan x="0" y="67.2" font-family="'TimesNewRomanPSMT'" font-size="14">content (grey) for each of the miRs signficiantly modified in the EV. This reveals that cavin-1 has an effect of miR </tspan><tspan x="0" y="84" font-family="'TimesNewRomanPSMT'" font-size="14">EVs where some effected miRs are not modified in the cell. B) RT-qPCR was performed to validate the RNA-seq </tspan><tspan x="0" y="100.8" font-family="'TimesNewRomanPSMT'" font-size="14">data. This was performed on EV and cellular RNA content extracted from GFP and cavin-1 PC3 cells to determine </tspan><tspan x="0" y="117.6" font-family="'TimesNewRomanPSMT'" font-size="14">relative amount of miR-200a-3p, 148a-3p, 30a-5p, 10b-5p, 574-3p and 363-3p (n &gt; 3). Delta-delta CT (ddCT) was </tspan><tspan x="0" y="134.4" font-family="'TimesNewRomanPSMT'" font-size="14">calculated and plotted (ddCT + SEM) by comparing expression of targets to miR-125a-3p. This miR was unchanged </tspan><tspan x="0" y="151.2" font-family="'TimesNewRomanPSMT'" font-size="14">in the EV and cell by cavin-1 expression. A Mann-Whitney U test compared EV change to the cellular change for </tspan><tspan x="0" y="168" font-family="'TimesNewRomanPSMT'" font-size="14">each of the miRs. This analysis confirms the trends found from the RNA-seq data.</tspan></text>
+	<line fill="none" stroke="#231F20" x1="257" y1="449.2" x2="257" y2="470.3"/>
+	<line fill="none" stroke="#231F20" x1="371" y1="449.2" x2="371" y2="470.3"/>
+	<text transform="matrix(1 0 0 1 163.6668 514.9344)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 181.6668 523.9344)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 201.6668 502.0574)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 220.3335 537.2678)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 239.6668 502.0576)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 259.6668 518.6011)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 278.3335 508.601)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 297.6668 523.9346)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 316.3335 561.4816)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 335.0002 470.2679)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 354.3335 470.268)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<text transform="matrix(1 0 0 1 375.0002 470.2682)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">*</text>
+	<g>
+		<g>
+			<line fill="none" stroke="#231F20" x1="449.7" y1="532.9" x2="472.6" y2="532.9"/>
+			<g>
+				<rect x="449.2" y="529.7" fill="#231F20" width="1" height="6.5"/>
+			</g>
+			<g>
+				<rect x="472.1" y="529.7" fill="#231F20" width="1" height="6.5"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#231F20" x1="483.7" y1="502.1" x2="506.5" y2="502.1"/>
+			<g>
+				<rect x="483.2" y="498.8" fill="#231F20" width="1" height="6.5"/>
+			</g>
+			<g>
+				<rect x="506" y="498.8" fill="#231F20" width="1" height="6.5"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#231F20" x1="526.1" y1="490.3" x2="548.9" y2="490.3"/>
+			<g>
+				<rect x="525.6" y="487" fill="#231F20" width="1" height="6.5"/>
+			</g>
+			<g>
+				<rect x="548.4" y="487" fill="#231F20" width="1" height="6.5"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#231F20" x1="566" y1="528.3" x2="588.8" y2="528.3"/>
+			<g>
+				<rect x="565.5" y="525" fill="#231F20" width="1" height="6.5"/>
+			</g>
+			<g>
+				<rect x="588.3" y="525" fill="#231F20" width="1" height="6.5"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#231F20" x1="603.3" y1="459.7" x2="626.1" y2="459.7"/>
+			<g>
+				<rect x="602.8" y="456.5" fill="#231F20" width="1" height="6.5"/>
+			</g>
+			<g>
+				<rect x="625.6" y="456.5" fill="#231F20" width="1" height="6.5"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#231F20" x1="641.7" y1="490.3" x2="664.5" y2="490.3"/>
+			<g>
+				<rect x="641.2" y="487" fill="#231F20" width="1" height="6.5"/>
+			</g>
+			<g>
+				<rect x="664" y="487" fill="#231F20" width="1" height="6.5"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 449.2498 547.2678)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">p=0.0706</text>
+	<text transform="matrix(1 0 0 1 474.7553 514.9344)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">0.0887</text>
+	<text transform="matrix(1 0 0 1 525.5675 508.601)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">0.232</text>
+	<text transform="matrix(1 0 0 1 565.4719 542.2678)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">0.700</text>
+	<text transform="matrix(1 0 0 1 641.2339 508.6008)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">0.999</text>
+	<text transform="matrix(1 0 0 1 595.3333 475.6289)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="12">0.6825</text>
 </g>
 </svg>
