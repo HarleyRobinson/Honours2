@@ -1,0 +1,107 @@
+
+PMID- 22266859
+OWN - NLM
+STAT- MEDLINE
+DA  - 20121011
+DCOM- 20121213
+IS  - 1476-5594 (Electronic)
+IS  - 0950-9232 (Linking)
+VI  - 31
+IP  - 41
+DP  - 2012 Oct 11
+TI  - Androgen-regulated miR-32 targets BTG2 and is overexpressed in
+      castration-resistant prostate cancer.
+PG  - 4460-71
+LID - 10.1038/onc.2011.624 [doi]
+AB  - The androgen receptor (AR) signaling pathway is involved in the emergence of
+      castration-resistant prostate cancer (CRPC). Here, we identified several
+      androgen-regulated microRNAs (miRNAs) that may contribute to the development of
+      CRPC. Seven miRNAs, miR-21, miR-32, miR-99a, miR-99b, miR-148a, miR-221 and
+      miR-590-5p, were found to be differentially expressed in CRPC compared with
+      benign prostate hyperplasia (BPH) according to microarray analyses. Significant
+      growth advantage for LNCaP cells transfected with pre-miR-32 and pre-miR-148a was
+      found. miR-32 was demonstrated to reduce apoptosis, whereas miR-148a enhanced
+      proliferation. Androgen regulation of miR-32 and miR-148a was confirmed by
+      androgen stimulation of the LNCaP cells followed by expression analyses. The
+      AR-binding sites in proximity of these miRNAs were demonstrated with chromatin
+      immunoprecipitation (ChIP). To identify target genes for the miRNAs, mRNA
+      microarray analyses were performed with LNCaP cells transfected with pre-miR-32
+      and pre-miR-148a. Expression of BTG2 and PIK3IP1 was reduced in the cells
+      transfected with pre-miR-32 and pre-miR-148a, respectively. Also, the protein
+      expression was reduced according to western blot analysis. BTG2 and PIK3IP1 were 
+      confirmed to be targets by 3'UTR-luciferase assays. Finally, immunostainings
+      showed a statistically significant (P<0.0001) reduction of BTG2 protein in CRPCs 
+      compared with untreated prostate cancer (PC). The lack of BTG2 staining was also 
+      associated (P<0.01) with a short progression-free time in patients who underwent 
+      prostatectomy. In conclusion, androgen-regulated miR-32 is overexpressed in CRPC,
+      leading to reduced expression of BTG2. Thus, miR-32 is a potential marker for
+      aggressive disease and is a putative drug target in PC.
+FAU - Jalava, S E
+AU  - Jalava SE
+AD  - Institute of Biomedical Technology, Tampere University, Tampere, Finland.
+FAU - Urbanucci, A
+AU  - Urbanucci A
+FAU - Latonen, L
+AU  - Latonen L
+FAU - Waltering, K K
+AU  - Waltering KK
+FAU - Sahu, B
+AU  - Sahu B
+FAU - Janne, O A
+AU  - Janne OA
+FAU - Seppala, J
+AU  - Seppala J
+FAU - Lahdesmaki, H
+AU  - Lahdesmaki H
+FAU - Tammela, T L J
+AU  - Tammela TL
+FAU - Visakorpi, T
+AU  - Visakorpi T
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120123
+PL  - England
+TA  - Oncogene
+JT  - Oncogene
+JID - 8711562
+RN  - 0 (Androgens)
+RN  - 0 (Immediate-Early Proteins)
+RN  - 0 (MIRN148 microRNA, human)
+RN  - 0 (MIRN32 microRNA, human)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (MicroRNAs)
+RN  - 0 (PIK3IP1 protein, human)
+RN  - 0 (Receptors, Androgen)
+RN  - 0 (Tumor Suppressor Proteins)
+RN  - 141490-22-4 (BTG2 protein, human)
+SB  - IM
+MH  - Androgens/physiology
+MH  - Binding Sites
+MH  - Case-Control Studies
+MH  - Cell Line, Tumor
+MH  - Cell Proliferation
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Immediate-Early Proteins/*genetics/metabolism
+MH  - Male
+MH  - Membrane Proteins/genetics/metabolism
+MH  - MicroRNAs/genetics/*metabolism
+MH  - Neoplasms, Hormone-Dependent/genetics/*metabolism
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Prognosis
+MH  - Prostatic Neoplasms/genetics/*metabolism
+MH  - Receptors, Androgen/metabolism
+MH  - Regulatory Sequences, Nucleic Acid
+MH  - Signal Transduction
+MH  - Transcriptome
+MH  - Tumor Suppressor Proteins/*genetics/metabolism
+EDAT- 2012/01/24 06:00
+MHDA- 2012/12/14 06:00
+CRDT- 2012/01/24 06:00
+PHST- 2012/01/23 [aheadofprint]
+AID - onc2011624 [pii]
+AID - 10.1038/onc.2011.624 [doi]
+PST - ppublish
+SO  - Oncogene. 2012 Oct 11;31(41):4460-71. doi: 10.1038/onc.2011.624. Epub 2012 Jan
+      23.

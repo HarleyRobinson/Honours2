@@ -1,0 +1,73 @@
+
+PMID- 15351640
+OWN - NLM
+STAT- MEDLINE
+DA  - 20040907
+DCOM- 20041102
+LR  - 20061115
+IS  - 0022-2836 (Print)
+IS  - 0022-2836 (Linking)
+VI  - 342
+IP  - 4
+DP  - 2004 Sep 24
+TI  - Characterization of hnRNP K protein-RNA interactions.
+PG  - 1131-41
+AB  - The heterogeneous nuclear ribonucleoprotein K protein is an RNA-binding protein
+      found in several subcellular compartments where it is thought to be involved in
+      signaling multiple processes that compose gene expression. K protein contains
+      three K homology (KH) domains that mediate RNA-binding. We used a serial analysis
+      of gene expression (SAGE)-based strategy, yeast three-hybrid screen, RNA
+      pull-down assays and computational analysis to characterize K protein-associated 
+      RNAs. We demonstrate that K protein interacts with many sense and antisense
+      nuclear and mitochondrial transcripts through both direct and indirect binding.
+      The highly specific direct binding of transcripts to K protein is mediated by a
+      consensus sequence comprising three C-rich patches. Structural analysis suggests 
+      a three-prong interaction model whereby each of the three KH domains binds one of
+      the C-rich patches. Genome-wide and yeast three-hybrid clone analysis revealed
+      that these sequences are located preferentially in the 3' untranslated regions,
+      which are known to regulate mRNA translation and processing.
+FAU - Klimek-Tomczak, Karolina
+AU  - Klimek-Tomczak K
+AD  - Department of Gastroenterology, Medical Center for Postgraduate Education at
+      Maria Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, 02-781
+      Warsaw, Poland.
+FAU - Wyrwicz, Lucjan S
+AU  - Wyrwicz LS
+FAU - Jain, Sanjeev
+AU  - Jain S
+FAU - Bomsztyk, Karol
+AU  - Bomsztyk K
+FAU - Ostrowski, Jerzy
+AU  - Ostrowski J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - England
+TA  - J Mol Biol
+JT  - Journal of molecular biology
+JID - 2985088R
+RN  - 0 (Heterogeneous-Nuclear Ribonucleoprotein K)
+RN  - 63231-63-0 (RNA)
+SB  - IM
+MH  - Animals
+MH  - Base Sequence
+MH  - Cell Line, Tumor
+MH  - Heterogeneous-Nuclear Ribonucleoprotein K/*metabolism
+MH  - Models, Chemical
+MH  - Precipitin Tests
+MH  - Protein Binding
+MH  - RNA/chemistry/genetics/*metabolism
+MH  - Rats
+MH  - Sequence Homology, Nucleic Acid
+MH  - Two-Hybrid System Techniques
+EDAT- 2004/09/08 05:00
+MHDA- 2004/11/04 09:00
+CRDT- 2004/09/08 05:00
+PHST- 2004/06/02 [received]
+PHST- 2004/07/23 [revised]
+PHST- 2004/07/29 [accepted]
+AID - 10.1016/j.jmb.2004.07.099 [doi]
+AID - S0022-2836(04)00953-2 [pii]
+PST - ppublish
+SO  - J Mol Biol. 2004 Sep 24;342(4):1131-41.

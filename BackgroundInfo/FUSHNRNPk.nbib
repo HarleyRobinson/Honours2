@@ -1,0 +1,101 @@
+
+PMID- 25192599
+OWN - NLM
+STAT- MEDLINE
+DA  - 20141216
+DCOM- 20150921
+IS  - 1558-1497 (Electronic)
+IS  - 0197-4580 (Linking)
+VI  - 36
+IP  - 1
+DP  - 2015 Jan
+TI  - Interaction of amyotrophic lateral sclerosis/frontotemporal lobar
+      degeneration-associated fused-in-sarcoma with proteins involved in metabolic and 
+      protein degradation pathways.
+PG  - 527-35
+LID - 10.1016/j.neurobiolaging.2014.07.044 [doi]
+LID - S0197-4580(14)00513-2 [pii]
+AB  - Fused-in-sarcoma (FUS) is a nuclear protein linked to amyotrophic lateral
+      sclerosis and frontotemporal dementia. Under pathologic conditions, FUS
+      frequently is accumulated in cytosoplasm, but how this altered distribution
+      affects the protein interaction pattern of FUS is unclear. Using dual-tag
+      affinity purification and mass spectrometry, we compared the interactome of the
+      wild-type FUS and the P525 L mutant, which causes juvenile amyotrophic lateral
+      sclerosis with the most severe phenotypes. The mutant FUS retained the ability to
+      bind proteins involved in RNA metabolism. We found significant increased binding 
+      of P525 L to many metabolic enzymes. Furthermore, we identified and confirmed
+      some novel interactions between FUS and proteins involved in neurodegenerative
+      diseases and/or ubiquitin proteasome pathway, such as VCP/p97, PSF, UBA 1, and
+      26S proteosome non-ATPase regulatory subunit 12 (PSMD12/Rpn5). Accordingly, we
+      have observed significantly reduced ATP levels and increased accumulation of
+      poly-ubiquitinated proteins in cells with FUS accumulation. Therefore, our study 
+      suggested new mechanisms whereby FUS accumulation leads to defective energy
+      metabolism and protein degradation by directly interacting with key regulators in
+      these pathways.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Wang, Tao
+AU  - Wang T
+AD  - Institute of Neuroscience and Key Laboratory of Primate Neurobiology, Chinese
+      Academy of Sciences, Shanghai Institute for Biological Sciences, Shanghai, China.
+FAU - Jiang, Xin
+AU  - Jiang X
+AD  - Institute of Neuroscience and Key Laboratory of Primate Neurobiology, Chinese
+      Academy of Sciences, Shanghai Institute for Biological Sciences, Shanghai, China.
+FAU - Chen, Gang
+AU  - Chen G
+AD  - Institute of Neuroscience and Key Laboratory of Primate Neurobiology, Chinese
+      Academy of Sciences, Shanghai Institute for Biological Sciences, Shanghai, China.
+FAU - Xu, Jin
+AU  - Xu J
+AD  - Institute of Neuroscience and Key Laboratory of Primate Neurobiology, Chinese
+      Academy of Sciences, Shanghai Institute for Biological Sciences, Shanghai, China.
+      Electronic address: Jin.Xu@ion.ac.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140804
+PL  - United States
+TA  - Neurobiol Aging
+JT  - Neurobiology of aging
+JID - 8100437
+RN  - 0 (Cell Cycle Proteins)
+RN  - 0 (Mutant Proteins)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (RNA-Binding Protein FUS)
+RN  - 8L70Q75FXE (Adenosine Triphosphate)
+RN  - EC 3.6.1.- (Adenosine Triphosphatases)
+RN  - EC 3.6.1.- (CDC48 protein)
+SB  - IM
+MH  - Adenosine Triphosphatases/physiology
+MH  - Adenosine Triphosphate/metabolism
+MH  - Amyotrophic Lateral Sclerosis/*genetics/metabolism
+MH  - Cell Cycle Proteins/physiology
+MH  - Energy Metabolism/*genetics
+MH  - Frontotemporal Lobar Degeneration/*genetics/metabolism
+MH  - HEK293 Cells
+MH  - Humans
+MH  - Mutant Proteins/*genetics/*metabolism
+MH  - Protein Binding
+MH  - Protein Interaction Maps/*genetics/*physiology
+MH  - *Proteolysis
+MH  - RNA, Messenger/metabolism
+MH  - RNA-Binding Protein FUS/*genetics/*metabolism
+OTO - NOTNLM
+OT  - Amyotrophic lateral sclerosis (ALS)
+OT  - Frontotemporal dementia (FTD)
+OT  - Fused-in-sarcoma (FUS)
+OT  - Metabolic
+OT  - Protein degradation
+OT  - Valocin-containing protein (VCP)
+EDAT- 2014/09/07 06:00
+MHDA- 2015/09/22 06:00
+CRDT- 2014/09/07 06:00
+PHST- 2014/04/24 [received]
+PHST- 2014/07/28 [revised]
+PHST- 2014/07/30 [accepted]
+PHST- 2014/08/04 [aheadofprint]
+AID - S0197-4580(14)00513-2 [pii]
+AID - 10.1016/j.neurobiolaging.2014.07.044 [doi]
+PST - ppublish
+SO  - Neurobiol Aging. 2015 Jan;36(1):527-35. doi:
+      10.1016/j.neurobiolaging.2014.07.044. Epub 2014 Aug 4.

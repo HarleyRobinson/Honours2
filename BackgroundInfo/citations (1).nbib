@@ -1,0 +1,101 @@
+
+PMID- 20232316
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100430
+DCOM- 20100524
+LR  - 20151119
+IS  - 1097-4652 (Electronic)
+IS  - 0021-9541 (Linking)
+VI  - 224
+IP  - 1
+DP  - 2010 Jul
+TI  - miR-20b modulates VEGF expression by targeting HIF-1 alpha and STAT3 in MCF-7
+      breast cancer cells.
+PG  - 242-9
+LID - 10.1002/jcp.22126 [doi]
+AB  - MicroRNAs (miRNAs) are small non-coding RNAs that regulate the expression of
+      different genes, including genes involved in cancer progression. A functional
+      link between hypoxia, a key feature of the tumor microenvironment, and miRNA
+      expression has been documented. We investigated whether and how miR-20b can
+      regulate the expression of vascular endothelial growth factor (VEGF) in MCF-7
+      breast cancer cells under normoxic and hypoxia-mimicking conditions (CoCl(2)
+      exposure). Using immunoblotting, ELISA, and quantitative real-time PCR, we
+      demonstrated that miR-20b decreased VEGF protein levels at 4 and 24 h following
+      CoCl(2) treatment, and VEGF mRNA at 4 h of treatment. In addition, miR-20b
+      reduced VEGF protein expression in untreated cells. Next, we investigated the
+      molecular mechanism by which pre-miR-20b can affect VEGF transcription, focusing 
+      on hypoxia inducible factor 1 (HIF-1) and signal transducer and activator of
+      transcription 3 (STAT3), transcriptional inducers of VEGF and putative targets of
+      miR-20b. Downregulation of VEGF mRNA by miR-20b under a 4 h of CoCl(2) treatment 
+      was associated with reduced levels of nuclear HIF-1 alpha subunit and STAT3.
+      Chromatin immunoprecipitation (ChIP) assays revealed that HIF-1 alpha, but not
+      STAT3, was recruited to the VEGF promoter following the 4 h of CoCl(2) treatment.
+      This effect was inhibited by transfection of cells with pre-miR-20b. In addition,
+      using siRNA knockdown, we demonstrated that the presence of STAT3 is necessary
+      for CoCl(2)-mediated HIF-1 alpha nuclear accumulation and recruitment on VEGF
+      promoter. In summary, this report demonstrates, for the first time, that the VEGF
+      expression in breast cancer cells is mediated by HIF-1 and STAT3 in a
+      miR-20b-dependent manner.
+CI  - (c) 2010 Wiley-Liss, Inc.
+FAU - Cascio, Sandra
+AU  - Cascio S
+AD  - Section of Medical Oncology, Department of Surgical and Oncological Sciences,
+      Palermo University, Palermo, Italy.
+FAU - D'Andrea, Aleco
+AU  - D'Andrea A
+FAU - Ferla, Rita
+AU  - Ferla R
+FAU - Surmacz, Eva
+AU  - Surmacz E
+FAU - Gulotta, Eliana
+AU  - Gulotta E
+FAU - Amodeo, Valeria
+AU  - Amodeo V
+FAU - Bazan, Viviana
+AU  - Bazan V
+FAU - Gebbia, Nicola
+AU  - Gebbia N
+FAU - Russo, Antonio
+AU  - Russo A
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - J Cell Physiol
+JT  - Journal of cellular physiology
+JID - 0050222
+RN  - 0 (HIF1A protein, human)
+RN  - 0 (Hypoxia-Inducible Factor 1, alpha Subunit)
+RN  - 0 (MIRN20 microRNA, human)
+RN  - 0 (MicroRNAs)
+RN  - 0 (STAT3 Transcription Factor)
+RN  - 0 (STAT3 protein, human)
+RN  - 0 (VEGFA protein, human)
+RN  - 0 (Vascular Endothelial Growth Factor A)
+RN  - 3G0H8C9362 (Cobalt)
+RN  - EVS87XF13W (cobaltous chloride)
+SB  - IM
+MH  - Binding Sites
+MH  - Breast Neoplasms/genetics/*metabolism/pathology
+MH  - Cell Hypoxia
+MH  - Cell Line, Tumor
+MH  - Cobalt/pharmacology
+MH  - Down-Regulation
+MH  - Female
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Hypoxia-Inducible Factor 1, alpha Subunit/genetics/*metabolism
+MH  - MicroRNAs/*metabolism
+MH  - Promoter Regions, Genetic
+MH  - RNA Interference
+MH  - STAT3 Transcription Factor/genetics/*metabolism
+MH  - *Signal Transduction/drug effects/genetics
+MH  - Time Factors
+MH  - Transfection
+MH  - Vascular Endothelial Growth Factor A/genetics/*metabolism
+EDAT- 2010/03/17 06:00
+MHDA- 2010/05/25 06:00
+CRDT- 2010/03/17 06:00
+AID - 10.1002/jcp.22126 [doi]
+PST - ppublish
+SO  - J Cell Physiol. 2010 Jul;224(1):242-9. doi: 10.1002/jcp.22126.
