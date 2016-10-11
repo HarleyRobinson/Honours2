@@ -1,0 +1,97 @@
+
+PMID- 23564449
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130527
+DCOM- 20130805
+LR  - 20150427
+IS  - 1083-351X (Electronic)
+IS  - 0021-9258 (Linking)
+VI  - 288
+IP  - 21
+DP  - 2013 May 24
+TI  - Heterogeneous nuclear ribonucleoprotein K (hnRNP-K) promotes tumor metastasis by 
+      induction of genes involved in extracellular matrix, cell movement, and
+      angiogenesis.
+PG  - 15046-56
+LID - 10.1074/jbc.M113.466136 [doi]
+AB  - Cancer is a leading cause of death and still awaits effective therapies. Rapid
+      industrialization has contributed to increase in incidence of cancer. One of the 
+      reasons why most of the cancers fail therapy is due to their metastatic property.
+      Hence identification of factors leading to metastasis is highly important to
+      design effective and novel anti-cancer therapeutics. In our earlier study (Inoue,
+      A., Sawata, S. Y., Taira, K., and Wadhwa, R. (2007) Loss-of-function screening by
+      randomized intracellular antibodies: identification of hnRNP-K as a potential
+      target for metastasis. Proc. Natl. Acad. Sci. U.S.A. 104, 8983-8988), we had
+      reported that the involvement of heterogeneous nuclear ribonucleoprotein K
+      (hnRNP-K) in metastasis. Here, we established hnRNP-K-overexpressing and
+      -underexpressing derivative cell lines and examined their proliferation and
+      metastatic properties in vitro and in vivo. Whereas hnRNP-K compromised cells
+      showed delayed tumor growth, its overexpression resulted in enhanced malignancy
+      and metastasis. Molecular basis of the hnRNP-K induced malignant and metastatic
+      phenotypes was dissected by cDNA microarray and pathway analyses. We found that
+      the hnRNP-K regulates extracellular matrix, cell motility, and angiogenesis
+      pathways. Involvement of the selected genes (Cck, Mmp-3, Ptgs2, and Ctgf) and
+      pathways was validated by gene-specific expression analysis. Our results
+      demonstrated that the hnRNP-K is a potential target for metastasis therapy.
+FAU - Gao, Ran
+AU  - Gao R
+AD  - National Institute of Advanced Industrial Science and Technology, Central 4,
+      1-1-1 Higashi, Tsukuba Science City 305-8562, Japan.
+FAU - Yu, Yue
+AU  - Yu Y
+FAU - Inoue, Atsushi
+AU  - Inoue A
+FAU - Widodo, Nashi
+AU  - Widodo N
+FAU - Kaul, Sunil C
+AU  - Kaul SC
+FAU - Wadhwa, Renu
+AU  - Wadhwa R
+LA  - eng
+PT  - Journal Article
+DEP - 20130405
+PL  - United States
+TA  - J Biol Chem
+JT  - The Journal of biological chemistry
+JID - 2985121R
+RN  - 0 (Heterogeneous-Nuclear Ribonucleoprotein K)
+RN  - 0 (Neoplasm Proteins)
+SB  - IM
+MH  - Animals
+MH  - Cell Line, Tumor
+MH  - *Cell Movement
+MH  - Extracellular Matrix/genetics/*metabolism/pathology
+MH  - *Gene Expression Regulation, Neoplastic
+MH  - Heterogeneous-Nuclear Ribonucleoprotein K/*biosynthesis/genetics
+MH  - Humans
+MH  - Mice
+MH  - Mice, Inbred BALB C
+MH  - Mice, Nude
+MH  - NIH 3T3 Cells
+MH  - Neoplasm Metastasis
+MH  - Neoplasm Proteins/*biosynthesis/genetics
+MH  - Neoplasms, Experimental/genetics/*metabolism/pathology
+MH  - Neovascularization, Pathologic/genetics/*metabolism/pathology
+PMC - PMC3663525
+OID - NLM: PMC3663525
+OTO - NOTNLM
+OT  - Angiogenesis
+OT  - Cancer Biology
+OT  - Cancer Tumor Promoter
+OT  - Cell Growth
+OT  - Cell Invasion
+OT  - Cell Migration
+OT  - Cell Proliferation
+OT  - Cell Signaling
+OT  - Tumor Metastases
+OT  - hnRNP-K
+EDAT- 2013/04/09 06:00
+MHDA- 2013/08/06 06:00
+CRDT- 2013/04/09 06:00
+PHST- 2013/04/05 [aheadofprint]
+AID - M113.466136 [pii]
+AID - 10.1074/jbc.M113.466136 [doi]
+PST - ppublish
+SO  - J Biol Chem. 2013 May 24;288(21):15046-56. doi: 10.1074/jbc.M113.466136. Epub
+      2013 Apr 5.
