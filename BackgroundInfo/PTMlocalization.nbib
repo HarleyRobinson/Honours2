@@ -1,0 +1,65 @@
+
+PMID- 17430201
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070413
+DCOM- 20070510
+IS  - 1389-2037 (Print)
+IS  - 1389-2037 (Linking)
+VI  - 8
+IP  - 2
+DP  - 2007 Apr
+TI  - Posttranslational modifications and subcellular localization signals: indicators 
+      of sequence regions without inherent 3D structure?
+PG  - 197-203
+AB  - Given the huge number of sequences of otherwise uncharacterized protein
+      sequences, computer-aided prediction of posttranslational modifications (PTMs)
+      and translocation signals from amino acid sequence becomes a necessity. We have
+      contributed to this multi-faceted, worldwide effort with the development of
+      predictors for GPI lipid anchor sites, for N-terminal N-myristoylation sites, for
+      farnesyl and geranylgeranyl anchor attachment as well as for the PTS1 peroxisomal
+      signal. Although the substrate protein sequence signals for various PTMs or
+      translocation systems vary dramatically, we found that their principal
+      architecture is similar for all the cases studied. Typically, a small stretch of 
+      the amino acid residues is buried in the catalytic cleft of the protein-modifying
+      enzyme (or the binding site of the transporter). This piece most intensely
+      interacts with the enzyme and its sequence variability is most restricted. This
+      stretch is surrounded by linker segments that connect the part bound by the
+      enzyme with the rest of the substrate protein. These residues are, as a trend,
+      small with a flexible backbone and polar. Due to the mechanistic requirements of 
+      binding to the enzyme, we suggest that most PTM sites are necessarily embedded
+      into intrinsically disordered regions (except for cases of autocatalytic PTMs,
+      PTMs executed in the unfolded state or non-enzymatic PTMs) and this issue
+      requires consideration in structural studies of proteins with complex
+      architecture. Surprisingly, some proteins carry sequence signals for
+      posttranslational modification or translocation that remain hidden in the normal 
+      biological context but can become fully functional in certain conditions.
+FAU - Eisenhaber, Birgit
+AU  - Eisenhaber B
+AD  - Research Institute of Molecular Pathology (IMP), Dr. Bohr-Gasse 7, A-1030 Vienna,
+      Austria. Birgit.Eisenhaber@imp.univie.ac.at
+FAU - Eisenhaber, Frank
+AU  - Eisenhaber F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - Netherlands
+TA  - Curr Protein Pept Sci
+JT  - Current protein & peptide science
+JID - 100960529
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Molecular Sequence Data
+MH  - Protein Conformation
+MH  - *Protein Processing, Post-Translational
+MH  - Proteins/chemistry
+MH  - *Signal Transduction
+MH  - Subcellular Fractions/chemistry
+RF  - 48
+EDAT- 2007/04/14 09:00
+MHDA- 2007/05/11 09:00
+CRDT- 2007/04/14 09:00
+PST - ppublish
+SO  - Curr Protein Pept Sci. 2007 Apr;8(2):197-203.
