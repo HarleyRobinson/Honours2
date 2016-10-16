@@ -1,0 +1,15 @@
+%A Hu, Jianjun
+%A Li, Bin
+%A Kihara, Daisuke
+%T Limitations and potentials of current motif discovery algorithms
+%0 Journal Article
+%D 2005 
+%8 January 1, 2005 
+%J Nucleic Acids Research 
+%P 4899-4913 
+%R 10.1093/nar/gki791 
+%V 33 
+%N 15 
+%U http://nar.oxfordjournals.org/content/33/15/4899.abstract 
+%X Computational methods for de novo identification of gene regulation elements, such as transcription factor binding sites, have proved to be useful for deciphering genetic regulatory networks. However, despite the availability of a large number of algorithms, their strengths and weaknesses are not sufficiently understood. Here, we designed a comprehensive set of performance measures and benchmarked five modern sequence-based motif discovery algorithms using large datasets generated from Escherichia coli RegulonDB. Factors that affect the prediction accuracy, scalability and reliability are characterized. It is revealed that the nucleotide and the binding site level accuracy are very low, while the motif level accuracy is relatively high, which indicates that the algorithms can usually capture at least one correct motif in an input sequence. To exploit diverse predictions from multiple runs of one or more algorithms, a consensus ensemble algorithm has been developed, which achieved 6–45% improvement over the base algorithms by increasing both the sensitivity and specificity. Our study illustrates limitations and potentials of existing sequence-based motif discovery algorithms. Taking advantage of the revealed potentials, several promising directions for further improvements are discussed. Since the sequence-based algorithms are the baseline of most of the modern motif discovery algorithms, this paper suggests substantial improvements would be possible for them. 
+

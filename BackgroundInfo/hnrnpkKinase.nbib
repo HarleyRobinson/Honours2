@@ -1,0 +1,103 @@
+
+PMID- 16293596
+OWN - NLM
+STAT- MEDLINE
+DA  - 20060306
+DCOM- 20060531
+LR  - 20140910
+IS  - 0006-4971 (Print)
+IS  - 0006-4971 (Linking)
+VI  - 107
+IP  - 6
+DP  - 2006 Mar 15
+TI  - A MAPK/HNRPK pathway controls BCR/ABL oncogenic potential by regulating MYC mRNA 
+      translation.
+PG  - 2507-16
+AB  - Altered mRNA translation is one of the effects exerted by the BCR/ABL oncoprotein
+      in the blast crisis phase of chronic myelogenous leukemia (CML). Here, we report 
+      that in BCR/ABL+ cell lines and in patient-derived CML blast crisis mononuclear
+      and CD34+ cells, p210(BCR/ABL) increases expression and activity of the
+      transcriptional-inducer and translational-regulator heterogeneous nuclear
+      ribonucleoprotein K (hnRNP K or HNRPK) in a dose- and kinase-dependent manner
+      through the activation of the MAPK(ERK1/2) pathway. Furthermore, HNRPK
+      down-regulation and interference with HNRPK translation-but not
+      transcription-regulatory activity impairs cytokine-independent proliferation,
+      clonogenic potential, and in vivo leukemogenic activity of BCR/ABL-expressing
+      myeloid 32Dcl3 and/or primary CD34+ CML-BC patient cells. Mechanistically, we
+      demonstrate that decreased internal ribosome entry site (IRES)-dependent Myc mRNA
+      translation accounts for the phenotypic changes induced by inhibition of the
+      BCR/ABL-ERK-dependent HNRPK translation-regulatory function. Accordingly, MYC
+      protein but not mRNA levels are increased in the CD34+ fraction of patients with 
+      CML in accelerated and blastic phase but not in chronic phase CML patients and in
+      the CD34+ fraction of marrow cells from healthy donors. Thus, BCR/ABL-dependent
+      enhancement of HNRPK translation-regulation is important for BCR/ABL
+      leukemogenesis and, perhaps, it might contribute to blast crisis transformation.
+FAU - Notari, Mario
+AU  - Notari M
+AD  - Human Cancer Genetics Program, The Ohio State University Medical Center,
+      Columbus, OH 43240, USA.
+FAU - Neviani, Paolo
+AU  - Neviani P
+FAU - Santhanam, Ramasamy
+AU  - Santhanam R
+FAU - Blaser, Bradley W
+AU  - Blaser BW
+FAU - Chang, Ji-Suk
+AU  - Chang JS
+FAU - Galietta, Annamaria
+AU  - Galietta A
+FAU - Willis, Anne E
+AU  - Willis AE
+FAU - Roy, Denis C
+AU  - Roy DC
+FAU - Caligiuri, Michael A
+AU  - Caligiuri MA
+FAU - Marcucci, Guido
+AU  - Marcucci G
+FAU - Perrotti, Danilo
+AU  - Perrotti D
+LA  - eng
+GR  - CA095512/CA/NCI NIH HHS/United States
+GR  - CA16058/CA/NCI NIH HHS/United States
+GR  - R01 CA095512/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20051117
+PL  - United States
+TA  - Blood
+JT  - Blood
+JID - 7603509
+RN  - 0 (Antigens, CD34)
+RN  - 0 (MYC protein, human)
+RN  - 0 (Proto-Oncogene Proteins c-myc)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Ribonucleoproteins)
+RN  - 146410-60-8 (HNRNPK protein, human)
+RN  - EC 2.7.10.2 (Fusion Proteins, bcr-abl)
+RN  - EC 2.7.11.24 (Mitogen-Activated Protein Kinases)
+SB  - AIM
+SB  - IM
+MH  - Antigens, CD34
+MH  - Blast Crisis/etiology
+MH  - Cell Line, Tumor
+MH  - Fusion Proteins, bcr-abl/*physiology
+MH  - Humans
+MH  - Leukemia, Myelogenous, Chronic, BCR-ABL Positive/*etiology
+MH  - Mitogen-Activated Protein Kinases/*metabolism
+MH  - *Protein Biosynthesis
+MH  - Proto-Oncogene Proteins c-myc/*genetics
+MH  - RNA, Messenger/genetics
+MH  - Ribonucleoproteins/*metabolism
+MH  - Tumor Cells, Cultured
+PMC - PMC1895740
+OID - NLM: PMC1895740
+EDAT- 2005/11/19 09:00
+MHDA- 2006/06/01 09:00
+CRDT- 2005/11/19 09:00
+PHST- 2005/11/17 [aheadofprint]
+AID - 2005-09-3732 [pii]
+AID - 10.1182/blood-2005-09-3732 [doi]
+PST - ppublish
+SO  - Blood. 2006 Mar 15;107(6):2507-16. Epub 2005 Nov 17.
